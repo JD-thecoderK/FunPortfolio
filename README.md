@@ -1,2 +1,2 @@
 # FunPortfolio
-A sample portfolio for fun
+A sample portfolio webpage for fun
